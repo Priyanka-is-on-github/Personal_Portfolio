@@ -4,7 +4,7 @@ import RenderModel from "./components/RenderModel";
 import Navigation from "./components/navigation";
 import dynamic from 'next/dynamic'
 
-const Witch = dynamic(()=>import("./components/models/witch"),{
+const Witch = dynamic(()=>import("./components/models/Witch"),{
   ssr:false,
 })
 
