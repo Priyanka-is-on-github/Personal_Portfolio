@@ -14,7 +14,11 @@ function AboutDetails() {
           info
         </h2>
 
-        <p className="font-light text-xs sm:text-sm md:text-base">I am a third-year Computer Science undergraduate student with a completed diploma, actively working with various tools and technologies such as HTML, CSS, JavaScript, React, TypeScript, Firebase, and PostgreSQL. I have created multiple projects based on these technologies and have a strong interest in working within the React ecosystem. Currently, I am working on an LMS project called EduJourney. Initially a PERN stack developer, I am now expanding my expertise by learning MERN stack technologies to further enhance my skills. My goal is to become a proficient coder and continuously improve by exploring new technologies like cloud computing and AI. I am dedicated to leveraging my skills and knowledge to contribute effectively to any project or team.</p>
+        <p className="font-light text-xs sm:text-sm md:text-base">I am a Computer Science graduate with a diploma and a strong foundation in modern web technologies including HTML, CSS, JavaScript, React, TypeScript, Firebase, and PostgreSQL. Over the years, I have built multiple projects that showcase my expertise, with a strong focus on the React ecosystem.
+
+One of my key projects, EduJourney, is an LMS platform that demonstrates my ability to design and develop full-stack applications, integrating dynamic features and scalable solutions. Initially specializing in the PERN stack, I have expanded my skills into the MERN stack, while also exploring cloud computing and AI to stay aligned with evolving industry trends.
+
+I am now seeking a challenging and growth-oriented opportunity where I can contribute my skills, collaborate with talented teams, and continue to advance as a proficient full-stack developer. My goal is to bring value to innovative projects while consistently enhancing my technical and problem-solving abilities.</p>
     </ItemLayout>
         
        < ItemLayout  className='col-span-full xs:col-span-6 lg:col-span-4 text-accent'>
@@ -25,7 +29,9 @@ function AboutDetails() {
 
        < ItemLayout className='col-span-full xs:col-span-6 lg:col-span-4 text-accent '>
        <div className="font-semibold w-full text-left text-2xl sm:text-5xl">
-          0 year experience
+          Computer Science graduate with hands-on experience in React, TypeScript, PostgreSQL, and Firebase, specializing in full-stack development.
+Completed a 3-month internship at Synexoo as a Software Developer, where I contributed to building a Remote Code Execution (RCE) system.
+Passionate about the React ecosystem, currently expanding into MERN stack, cloud computing, and AI, while seeking a growth-oriented developer role.
         </div>
        </ItemLayout>
 
