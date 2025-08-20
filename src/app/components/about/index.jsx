@@ -28,7 +28,7 @@ I am now seeking a challenging and growth-oriented opportunity where I can contr
        </ItemLayout>
 
        < ItemLayout className='col-span-full xs:col-span-6 lg:col-span-4 text-accent '>
-       <div className="font-semibold w-full text-left text-2xl sm:text-5xl">
+       <div className="font-semibold w-full text-left text-2xl sm:text-3xl">
           Computer Science graduate with hands-on experience in React, TypeScript, PostgreSQL, and Firebase, specializing in full-stack development.
 Completed a 3-month internship at Synexoo as a Software Developer, where I contributed to building a Remote Code Execution (RCE) system.
 Passionate about the React ecosystem, currently expanding into MERN stack, cloud computing, and AI, while seeking a growth-oriented developer role.
